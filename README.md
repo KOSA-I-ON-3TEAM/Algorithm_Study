@@ -1,5 +1,6 @@
-# Algorithm
+### Algorithm
 
 
-1주차 해시
-- https://www.acmicpc.net/problem/3033
+## 1주차 해시
+# Find All Duplicates in an Array
+link: https://leetcode.com/problems/find-all-duplicates-in-an-array/
